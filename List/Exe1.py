@@ -21,5 +21,5 @@ list1 = [10 ,20, 30, 40]
 print(list1)
 
 # user input
-user = list(input("Enter the list: "))
+user = list(input("Enter the list: ").split())
 print(user)
