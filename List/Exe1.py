@@ -23,3 +23,8 @@ print(list1)
 # user input
 user = list(input("Enter the list: ").split())
 print(user)
+
+# User input using map function
+User = list(map(int,input("Enter the list: ").split()))
+print(User)
+
